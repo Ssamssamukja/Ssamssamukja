@@ -32,5 +32,3 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ssamssamukja&layout=compact&bg_color=180,ffffff,00000000&title_color=000000&text_color=000000"
            /> </div> 
 </div>
-
-![Metrics](/github-metrics.svg)
